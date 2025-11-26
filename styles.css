@@ -1,0 +1,14 @@
+.post{
+    width: 50%;
+}
+.head-post{
+    border-style: solid;
+    padding: 5px;
+    display: flex;
+}
+.head-post i{
+    font-size: 30px;
+}
+.text{
+    flex-grow: 2;
+}
